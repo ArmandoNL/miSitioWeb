@@ -185,11 +185,14 @@
     <Content Include="favicon.ico" />
     <Content Include="fonts\acerca.png" />
     <Content Include="fonts\acerca2.png" />
+    <Content Include="fonts\acercaGrande.png" />
     <Content Include="fonts\Arenal.png" />
     <Content Include="fonts\computación.png" />
     <Content Include="fonts\computación2.png" />
+    <Content Include="fonts\computaciónGrande.png" />
     <Content Include="fonts\contacto.png" />
     <Content Include="fonts\contacto2.png" />
+    <Content Include="fonts\contactoGrande.png" />
     <Content Include="fonts\facebook.png" />
     <Content Include="fonts\frase.png" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
@@ -199,8 +202,10 @@
     <Content Include="fonts\llano2.png" />
     <Content Include="fonts\objetivos.png" />
     <Content Include="fonts\objetivos1.png" />
+    <Content Include="fonts\objetivosGrande.png" />
     <Content Include="fonts\pasatiempo.png" />
     <Content Include="fonts\pasatiempo2.png" />
+    <Content Include="fonts\pasatiempoGrande.png" />
     <Content Include="fonts\pinterest.png" />
     <Content Include="fonts\twitter.png" />
     <Content Include="Global.asax" />
