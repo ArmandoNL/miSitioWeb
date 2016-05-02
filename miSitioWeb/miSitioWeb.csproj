@@ -200,12 +200,24 @@
     <Content Include="fonts\lago2.png" />
     <Content Include="fonts\linkedin.png" />
     <Content Include="fonts\llano2.png" />
+    <Content Include="fonts\objetivo1.png" />
+    <Content Include="fonts\objetivo2.png" />
+    <Content Include="fonts\objetivo3.png" />
+    <Content Include="fonts\objetivo4.png" />
+    <Content Include="fonts\objetivo5.png" />
+    <Content Include="fonts\objetivo6.png" />
     <Content Include="fonts\objetivos.png" />
     <Content Include="fonts\objetivos1.png" />
     <Content Include="fonts\objetivosGrande.png" />
     <Content Include="fonts\pasatiempo.png" />
     <Content Include="fonts\pasatiempo2.png" />
     <Content Include="fonts\pasatiempoGrande.png" />
+    <Content Include="fonts\pasatiempos1.png" />
+    <Content Include="fonts\pasatiempos2.png" />
+    <Content Include="fonts\pasatiempos3.png" />
+    <Content Include="fonts\pasatiempos4.png" />
+    <Content Include="fonts\pasatiempos5.png" />
+    <Content Include="fonts\pasatiempos6.png" />
     <Content Include="fonts\pinterest.png" />
     <Content Include="fonts\twitter.png" />
     <Content Include="Global.asax" />
@@ -260,6 +272,8 @@
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Home\Pasatiempos.cshtml" />
+    <Content Include="Views\Home\Computación.cshtml" />
+    <Content Include="Views\Home\Objetivos.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
