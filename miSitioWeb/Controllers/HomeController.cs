@@ -29,22 +29,36 @@ namespace miSitioWeb.Controllers
 
         public ActionResult Pasatiempos()
         {
-            
-
             return View();
         }
 
         public ActionResult Computación()
         {
-
-
             return View();
         }
 
         public ActionResult Objetivos()
         {
+            return View();
+        }
 
+        public ActionResult Com_Cursos()
+        {
+            return View();
+        }
 
+        public ActionResult Com_Descargas()
+        {
+            return View();
+        }
+
+        public ActionResult Com_Porqué()
+        {
+            return View();
+        }
+
+        public ActionResult Com_Prof()
+        {
             return View();
         }
     }

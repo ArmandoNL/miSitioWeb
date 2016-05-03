@@ -190,6 +190,12 @@
     <Content Include="fonts\computación.png" />
     <Content Include="fonts\computación2.png" />
     <Content Include="fonts\computaciónGrande.png" />
+    <Content Include="fonts\computaciónP1.png" />
+    <Content Include="fonts\computaciónP2.png" />
+    <Content Include="fonts\computaciónP3.png" />
+    <Content Include="fonts\computaciónP4.png" />
+    <Content Include="fonts\computaciónP5.png" />
+    <Content Include="fonts\computaciónP6.png" />
     <Content Include="fonts\contacto.png" />
     <Content Include="fonts\contacto2.png" />
     <Content Include="fonts\contactoGrande.png" />
@@ -274,6 +280,10 @@
     <Content Include="Views\Home\Pasatiempos.cshtml" />
     <Content Include="Views\Home\Computación.cshtml" />
     <Content Include="Views\Home\Objetivos.cshtml" />
+    <Content Include="Views\Home\Com_Cursos.cshtml" />
+    <Content Include="Views\Home\Com_Descargas.cshtml" />
+    <Content Include="Views\Home\Com_Porqué.cshtml" />
+    <Content Include="Views\Home\Com_Prof.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
