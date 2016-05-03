@@ -23,13 +23,11 @@
                 <ul class="nav navbar-nav">
                     <li><a href=@Url.Action("Objetivos", "Home")> <img src="~/fonts/objetivos1.png" style="align-self:center" />   Objetivos</a></li>
                     <li><a href=@Url.Action("Pasatiempos", "Home")><img src="~/fonts/pasatiempo2.png" style="align-self:center" />   Pasatiempos</a></li>
-                    <li><a href=@Url.Action("Computación", "Home")><img src="~/fonts/computación2.png" style="align-self:center"/>   Computación</a></li>
-
-                    <!--
-                    <li>@Html.ActionLink("Objetivos", "Contact", "Home")</li>
-                    <li>@Html.ActionLink("Pasatiempos", "About", "Home")</li>
-                    <li>@Html.ActionLink("Computación", "About", "Home")</li>
-                        -->
+                    <li><a href=@Url.Action("Computación", "Home")><img src="~/fonts/computación2.png" style="align-self:center"/>   Computación</a>
+                        <ul>
+                            <li><a href=@Url.Action("Com_Porqué", "Home")>¿Por qué?</a></li>
+                        </ul>
+                    </li>
                 </ul>
                 @Html.Partial("_LoginPartial")
             </div>
